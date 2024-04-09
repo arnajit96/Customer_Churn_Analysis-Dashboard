@@ -6,6 +6,7 @@ The Customer Churn Analysis Dashboard is a Power BI-based initiative, focusing o
 
 
 #Data Collection: 
+
 The dataset, comprising 7000+ records of customer information, was furnished as an Excel file by PwC, sourced from a telecom client during the PwC Power BI in Data Analytics Virtual Case Experience.             
 It encompasses crucial fields such as Gender, Senior Citizen status, Tenure, Payment Method, Phone Service, Contract, Monthly Charge, Subscriptions, etc.
 
