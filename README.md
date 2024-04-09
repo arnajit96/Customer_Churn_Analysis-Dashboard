@@ -23,11 +23,11 @@ Data visualization.
 
 #Key Performance Indicators (KPIs): 
 
-• Customers at Risk: Providing an overview, with a total count of 7043 customers. 
-• Number of Technical Tickets: Totalling 2955. 
-• Number of Administrative Tickets: Summing up to 3632. 
-• Yearly Charges: Amounting to 16.06 million. 
-• Monthly Charges: Totalling 456.12 thousand. 
+• Customers at Risk: Providing an overview, with a total count of 7043 customers.  
+• Number of Technical Tickets: Totalling 2955.  
+• Number of Administrative Tickets: Summing up to 3632.  
+• Yearly Charges: Amounting to 16.06 million.  
+• Monthly Charges: Totalling 456.12 thousand.  
 
 
 #Insights: 
@@ -35,17 +35,17 @@ Data visualization.
 
 							           Demographics
                 
-• Month-to-month customers exhibit a higher likelihood of churn.
-• Senior citizens are predisposed to churn.
-• 36% of Partners, 25% of Senior Citizens, and 17% of Dependents churn.
-• Gender distribution: 50.48% Male, 49.52% Female.
+• Month-to-month customers exhibit a higher likelihood of churn. 
+• Senior citizens are predisposed to churn. 
+• 36% of Partners, 25% of Senior Citizens, and 17% of Dependents churn. 
+• Gender distribution: 50.48% Male, 49.52% Female. 
 • The majority of churn occurs among subscriptions of less than 1 year.
 
 							         Customer Method
 							
-• Payment methods encompass Electronic check, Mailed Check, Bank Transfer, and Credit Card.
-• Electronic Check method is preferred by a significant portion of customers.
-• 59.22% of Payment Methods opt for Paperless Billing.
+• Payment methods encompass Electronic checks, Mailed Check, Bank Transfer, and Credit Card. 
+• Electronic Check method is preferred by a significant portion of customers. 
+• 59.22% of Payment Methods opt for Paperless Billing. 
 
 							        Service Customer
                
