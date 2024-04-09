@@ -62,7 +62,7 @@ Data visualization.
 
 • Churn rates vary across services: 28% for Online Backup, 16% for Online Security, 44% for Streaming Movies, and 91% for Phone Service.
 
-![Uploading image.png…]()
+
 
 
 
