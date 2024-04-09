@@ -1,4 +1,4 @@
-![image](https://github.com/arnajit96/Customer_Churn_Analysis-Dashboard/assets/157004597/ab040b6b-310d-45fa-a949-8c9183682f91)# Customer_Churn_Analysis-Dashboard
+# Customer_Churn_Analysis-Dashboard
 
 #About the Project: 
 
